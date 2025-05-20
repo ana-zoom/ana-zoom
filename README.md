@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ana-zoom, I'm fourty years old and I'm a developer woman.
+- 👋 Hi, I’m @ana-zoom and I'm a developer woman.
 - 👀 I’m interested in news about development and languages of programming.
 - 🌱 I’m currently learning about technology and reading books technicals and safe careful.
 - 💞️ I’m looking to collaborate on projects about technology.
